@@ -6,5 +6,4 @@
 
 <a href="https://discord.com/users/1123698641937383425" target="_blank">
     <img align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1124076520315568238">
-  <a>heroin</a>
 </a>
